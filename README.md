@@ -2,4 +2,6 @@
 
 This is my *first* repo.
 
-![](./giphy.gif)
+Awesome workshop:
+
+![Happy New Year](./giphy.gif)
