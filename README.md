@@ -2,6 +2,6 @@
 
 This is my *first* repo.
 
-What is this:
+Awesome workshop:
 
-![what is this](./giphy.gif)
+![Happy New Year](./giphy.gif)
